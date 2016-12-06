@@ -12,4 +12,6 @@ Steps for compile with cmake using the comand line:
 
 4 - Run: $ make
 
+Dependencies: gcc, cmake, opencv
+
 Easy. :)
