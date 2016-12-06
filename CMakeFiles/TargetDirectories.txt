@@ -1,0 +1,3 @@
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/CMakeFiles/edit_cache.dir
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/CMakeFiles/rebuild_cache.dir
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/CMakeFiles/prediction.dir

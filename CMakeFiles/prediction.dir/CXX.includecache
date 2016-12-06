@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/prediction.cpp
+opencv2/opencv.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/opencv.hpp
+opencv2/objdetect.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/objdetect.hpp
+opencv2/imgproc.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/imgproc.hpp
+opencv2/highgui.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/highgui.hpp
+opencv2/videoio.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/videoio.hpp
+opencv2/core.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/core.hpp
+opencv2/face.hpp
+/home/andre/study/opencv/tutorials/face_reconition/prediction_test/opencv2/face.hpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+dirent.h
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
